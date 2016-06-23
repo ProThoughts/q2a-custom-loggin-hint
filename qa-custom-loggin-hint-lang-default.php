@@ -15,9 +15,9 @@
 
 	return array(
 		// default
-		'message_title' => 'この回答にコメントを投稿',
-		'user_regist' => '回答にコメントを投稿して議論にしましょう。コメントの投稿にはユーザー登録が必要です。^1こちら^2',
-		'user_login' => 'ユーザー登録済の方は、^1こちら^2からログインしてください',
+		'message_title' => 'comment to this answer',
+		'user_regist' => 'We contribute comment to an answer, and let\'s argue. User\'s registration is necessary for a contribution of the comment. ^1this^2',
+		'user_login' => 'The one where it has been registered, please log in from ^1this^2',
 	);
 
 /*
